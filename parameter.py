@@ -13,8 +13,10 @@ patient_name = [101, 106, 108, 109, 112, 114, 115, 116, 118,
                 117, 121, 123, 200, 202, 210, 212, 213, 214, 
                 219, 221, 222, 228, 231, 232, 233, 234]
 
-
-
-
+signals_len = [150,150]
+file_path = r'ECG_signals/'
+cha_flag = True
+activation_conv_1d = 'relu'
+tt_ll = 1
 
 
